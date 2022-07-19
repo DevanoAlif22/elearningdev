@@ -1,0 +1,308 @@
+img {
+    width: 50px;
+}
+select {
+    margin-bottom: 20px;
+}
+.pilih a {
+    text-decoration: none;
+    color: black;
+    background-color: #3db2ff;
+    padding: 5px 30px;
+    border-radius: 2px;
+}
+.pilih {
+    margin-bottom: 30px;
+    margin-left: 30px;
+
+}
+.select2 {
+    display: flex;
+}
+.select2 p {
+    margin-right: 20px;
+    margin-left: 30px;
+}
+
+.select2 a {
+    color: black;
+    background-color: #3db2ff;
+    padding: 10px 60px;
+}
+body {
+    background-color: #e8f6ff;
+}
+.bawah {
+    background-color: #a6dbff;
+}
+.tambah a {
+    color: black;
+    text-decoration: none;
+    padding: 10px 50px;
+    background-color: #3db2ff;
+    border-radius: 2px;
+    margin-left: 30px;
+}
+.container {
+    display:flex;
+}
+* {
+    margin:0;
+    padding:0;
+}
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+    margin-bottom:20px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+.wadah1 {
+    background-color: #0095ff;
+    width: 25%;
+    height: 750px;
+
+}
+
+
+.judul {
+    text-align: center;
+    align-items: center;
+}
+.judul h1 {
+    color: white;
+    width: 80%;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.data a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Prompt', sans-serif;
+}
+
+.data {
+    align-items: center;
+    text-align: center;
+    background-color: #3db2ff;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+.data span p a {
+    color: rgb(0, 0, 0);
+}
+
+.logout a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+
+.logout {
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+table {
+    width: 120%;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.text {
+    width: 400px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.submitcari {
+    width: 100px;
+    height: 35px;
+    background-color: #3db2ff;
+    border: 0 solid;
+}
+
+.formu {
+display: flex;
+}
+
+
+
+
+/* TAMBAH DATA */
+.wadah3 h1{
+    margin-bottom: 70px;
+}
+.wadah3 span {
+    color: rgb(190, 190, 190);
+}
+
+.wadah3 p {
+    margin-bottom: 10px;
+}
+
+.submit {
+    width: 40%;
+    height: 40px;
+    background-color: #a6dbff;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.input {
+    width: 1000px;
+    height: 40px;
+}
+
+.wadah3 {
+    margin-left: 30px;
+}
+
+
+/* TENTANG SEKOLAH */
+.header {
+    background-image: url('img/itats2.png');
+    background-position: center;
+    background-size: cover;
+    width: 1145px;
+    height: 150px;
+}
+
+.itats {
+    width: 1000px;
+    height: 180px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    position: absolute;
+    top: 100px;
+    right: 70px;
+    display: flex;
+}   
+
+.logo img {
+    width: 120px;
+}
+
+.sekolah h2 {
+    margin-top: 45px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+.sekolah p {
+    margin-left: 30px;
+    font-family: 'Prompt', sans-serif;
+}
+.sekolah span p {
+    margin-left: 30px;
+}
+
+.logo {
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.rangking {
+    background-color: #a6dbff;
+    width: 200px;
+    height: 180px;
+    margin-left: 60px;
+    text-align: center;
+    align-items: center;
+}
+
+.rangking h2 {
+    color: rgb(255, 149, 20);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+}
+
+.rangking2 {
+    margin: auto;
+    margin-top: 40px;
+    font-family: 'Prompt', sans-serif;
+}
+
+/* Bagian 2 Tentang Sekolah */
+
+.abang {
+    width: 400px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.abang img{
+    width: 80%;
+    margin-left: 60px;
+}
+
+.bagian2 {
+    margin-top: 150px;
+    height: 350px;
+    display: flex;
+}
+
+.profil {
+    margin-top: 30px;
+}
+.profil p {
+    width: 670px;
+    font-family: 'Prompt', sans-serif;
+}
+
+.profil h2 {
+    margin-bottom: 10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+.next {
+    background-color: #0066ff;
+    width: 1100;
+    height: 85px;
+}
+
+.next h2 {
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+/* Jurusan */
+
+.jurusan1 {
+    width: 70%;
+    height: 200px;
+    background-color: #a6dbff;
+}
+
+.submat {
+    background-color: #0095ff;
+    width: 250px;
+    height: 350px;
+}
+
+.dua a {
+    color:white;
+    text-decoration: none;
+
+}
+
+.dua {
+    margin-top: 15px;
+}
